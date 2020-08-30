@@ -355,3 +355,8 @@
 	path = WithPrice/theme13.01
 	url = git@github.com:WithPrice/theme13.01.git
 	branch = master
+
+[submodule "WithPrice/odoo_theme"]
+	path = WithPrice/odoo_theme
+	url = git@github.com:WithPrice/odoo_theme.git
+	branch = 13.0
