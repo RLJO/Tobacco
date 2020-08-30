@@ -340,3 +340,8 @@
 	path = RL-OtherApps/jo_hrms
 	url = git@github.com:RL-OtherApps/jo_hrms.git
 	branch = 12.0
+
+[submodule "WithPrice/ks_theme_kin"]
+	path = WithPrice/ks_theme_kin
+	url = git@github.com:WithPrice/ks_theme_kin.git
+	branch = master
