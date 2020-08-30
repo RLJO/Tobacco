@@ -350,3 +350,8 @@
 	path = WithPrice/eagle_theme_ecomm
 	url = git@github.com:WithPrice/eagle_theme_ecomm.git
 	branch = master
+
+[submodule "WithPrice/theme13.01"]
+	path = WithPrice/theme13.01
+	url = git@github.com:WithPrice/theme13.01.git
+	branch = master
