@@ -335,3 +335,8 @@
 	path = OCA/storage
 	url = git@github.com:OCA/storage.git
 	branch = 13.0
+
+[submodule "RL-OtherApps/jo_hrms"]
+	path = RL-OtherApps/jo_hrms
+	url = git@github.com:RL-OtherApps/jo_hrms.git
+	branch = 12.0
