@@ -345,3 +345,8 @@
 	path = WithPrice/ks_theme_kin
 	url = git@github.com:WithPrice/ks_theme_kin.git
 	branch = master
+
+[submodule "WithPrice/eagle_theme_ecomm"]
+	path = WithPrice/eagle_theme_ecomm
+	url = git@github.com:WithPrice/eagle_theme_ecomm.git
+	branch = master
