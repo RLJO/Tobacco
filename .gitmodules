@@ -330,3 +330,8 @@
 	path = muk_dms
 	url = https://github.com/OCA-MUK/muk_dms.git
 	branch = 13.0
+
+[submodule "OCA/storage"]
+	path = OCA/storage
+	url = git@github.com:OCA/storage.git
+	branch = 13.0
